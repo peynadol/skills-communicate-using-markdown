@@ -15,3 +15,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```javascript
 let myVar = "This is how javascript looks!"
 ```
+- [ ] Go through GitHub student benefits
+- [ ] Create a good readme
+- [x] Create a task list
